@@ -1,0 +1,30 @@
+#footer {
+  border-top: 2px solid rgb(220,220,220);
+  background-color: linear-gradient(rgb(240,240,240), #FCF5E8);
+  margin-top: 64px;
+}
+
+#footer h2 {
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+
+#footer ul {
+  display: flex;
+  justify-content: center;
+}
+
+#footer li {
+  display: inline;
+  font-size: 24px;
+  margin: 0px 24px 0px 0px;
+}
+
+#inline-footer a {
+  color: #233319;
+}
+
+#inline-footer a:hover {
+  color: #79A160;
+}
+
